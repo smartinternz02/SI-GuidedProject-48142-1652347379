@@ -13,7 +13,7 @@ A Machine Learning Model for calculating CO2 emission by country, Due to the inc
 
 Installed packages and libraries:- Anaconda Navigator, Jupyter, Numpy, Pandas, Matplotlib, Scikit-Learn
 
-Demonstration Video:- https://docs.google.com/presentation/d/1VAhwFhbkHukdbeM2FUSfrBJTxKF-1K2c/edit?usp=sharing&ouid=105188177589237577926&rtpof=true&sd=true
+Demonstration Video:-https://drive.google.com/file/d/1D7M2d5sDGi1WY7vMkF7QCSpW1bGgQ_rK/view?usp=sharing
 
 Report:- https://docs.google.com/document/d/1W7fAJyPUE92c4DkYNSeXANXE9PhlDcFZ/edit?usp=sharing&ouid=105188177589237577926&rtpof=true&sd=true
 
