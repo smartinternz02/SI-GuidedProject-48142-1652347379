@@ -19,4 +19,4 @@ Dataset:- https://drive.google.com/drive/folders/1H36lxbUC24LRllNY110bNG--S9RuSG
 
 Demonstration Video:- https://drive.google.com/file/d/1D7M2d5sDGi1WY7vMkF7QCSpW1bGgQ_rK/view?usp=sharing
 
-Report:- https://drive.google.com/file/d/1FRR8GDM7PzCxqUvChD3AMZK-o4ogG00-/view?usp=sharing
+Report:- https://docs.google.com/document/d/1JvfwCeIjzUJoxdDSsEnTwLRgqw5Nr4fM/edit?usp=sharing&ouid=103892415223794152283&rtpof=true&sd=true
